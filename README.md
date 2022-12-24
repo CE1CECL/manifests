@@ -1,4 +1,4 @@
-# Android 10 Openwatch manifest #
+# Android 10 Openwatch manifests #
 
 ### Setup build enviroment ###
 https://source.android.com/setup/build/initializing#installing-required-packages-ubuntu-1804
@@ -8,7 +8,7 @@ https://source.android.com/setup/build/initializing#installing-required-packages
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/OpenWatchProject/manifest -b android-10
+repo init -u https://github.com/CE1CECL/manifests -b android-10
 
 # Sync
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
