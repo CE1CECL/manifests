@@ -778,7 +778,7 @@
   <project path="tools/tradefederation/contrib" name="platform/tools/tradefederation/contrib" groups="pdk,tradefed" remote="aosp" />
   <project path="tools/trebuchet" name="platform/tools/trebuchet" groups="tools,cts,pdk,pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="trusty" name="mtk-watch/android_trusty" groups="pdk" />
-  <project path="vendor/mediatek" name="OpenWatchProject/android_vendor_mediatek" groups="pdk" remote="github" revision="android-10" />
+  <project path="vendor/mediatek" name="mtk-watch/android_vendor_mediatek" groups="pdk" remote="gitlab" />
   <project path="vendor/openwatchproject" name="OpenWatchProject/android_vendor_openwatchproject" groups="pdk" remote="github" revision="android-10" />
 
 
