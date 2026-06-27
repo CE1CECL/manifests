@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="aosp" fetch="http://android.googlesource.com"/>
+  <remote name="aosp" fetch="http://android.googlesource.com/a"/>
   
   <default remote="aosp" revision="nougat-mr1-security-release"/>
   
